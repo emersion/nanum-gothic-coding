@@ -1,0 +1,19 @@
+{
+  "name": "nanum-gothic-coding",
+  "version": "4.0.0",
+  "description": "Nanum Gothic Coding (Korean)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersion/nanum-gothic-coding.git"
+  },
+  "keywords": [
+    "font",
+    "hangul"
+  ],
+  "author": "Sandoll Communications, Fontrix, Naver",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/emersion/nanum-gothic-coding/issues"
+  },
+  "homepage": "https://github.com/emersion/nanum-gothic-coding#readme"
+}
